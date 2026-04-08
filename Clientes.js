@@ -1,1 +1,1 @@
-const Clientes = () => <h1>Lista de Clientes</h1>
+const Clientes = () => <h1>Painel de Filtros</h1>
